@@ -1,0 +1,13 @@
+the following is the commands used to create this project....
+
+1- initiate the project
+   npm init 
+2 - install expressjs
+    npm install expressjs
+3- install mongodb
+   npm install mongoose
+4- install mongoose
+   npm install mongoose
+5- install nodemon for autot update server after any change  by small tool
+   npm install nodemon --save-dev
+  
